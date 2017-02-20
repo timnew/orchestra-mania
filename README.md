@@ -1,4 +1,3 @@
-# ProcessMania
+# OrchestraMania
 
 **TODO: Add description**
-

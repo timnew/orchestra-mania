@@ -1,4 +1,4 @@
-defmodule ProcessMania.Mixfile do
+defmodule OrchestraMania.Mixfile do
   use Mix.Project
 
   def project do
